@@ -53,11 +53,5 @@ This retrieval output can later be passed to a Large Language Model (LLM) to com
 
 ---
 
-## Installation
-
-Clone the repository:
-git clone https://github.com/<your-username>/RAG.git
-cd RAG
-
 ## Install dependencies:
 pip install sentence-transformers faiss-cpu pymupdf numpy
